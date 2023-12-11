@@ -57,7 +57,7 @@ work:
     company_url: 'https://astoundcommerce.com/'
     company_logo: ''
     date_start: 2022-09-05
-    date_end: 'present'
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - Conducted manual testing using various methodologies, such as smoke testing, accessibility testing, regression testing, and ad hoc testing, to ensure the quality and reliability of the eCommerce website.
