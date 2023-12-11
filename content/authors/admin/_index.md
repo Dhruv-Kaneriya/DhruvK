@@ -46,11 +46,11 @@ education:
       CGPA: 9.6 
   - area: High School
     institution: The Rajkumar College Rajkot
-    # date_start: 2016-01-01
-    # date_end: 2020-12-31
+    date_start: 2017-05-02
+    date_end: 2019-05-02
     summary: |
-      Class XII: 82.8%
-      Class X: 9.8 CGPA
+      - Class XII: 82.8%
+      - Class X: 9.8 CGPA
 work:
   - position: QA Engineer-Junior
     company_name: Astound Commerce
