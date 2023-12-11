@@ -40,8 +40,8 @@ profiles:
 education:
   - area: B.E. in Computer Engineering
     institution: Gujarat Technological University
-    date_start: July 2019
-    date_end: June 2023
+    date_start: 2019-07-18
+    date_end: 2023-06-01
     summary: |
       CGPA: 9.6 
   - area: High School
