@@ -56,7 +56,7 @@ work:
     company_name: Astound Commerce
     company_url: 'https://astoundcommerce.com/'
     company_logo: ''
-    date_start: September 2022
+    date_start: 2022-09-05
     date_end: 'present'
     summary: |2-
       Responsibilities include:
