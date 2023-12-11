@@ -31,11 +31,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Technical Skills
-      username: admin
-  - block: hobbies
-    content:
-      title: Hobbies
+      title: Skills & Hobbies
       username: admin
   - block: awards
     content:
