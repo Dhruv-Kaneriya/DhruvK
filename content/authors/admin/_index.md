@@ -74,7 +74,7 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
-    - items:
+    items:
       - name: Manual Testing
         description: ''
         percent: 100
