@@ -73,39 +73,40 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
+    columns:
   # - name: Technical Skills
-    items:
-      - name: Manual Testing
-        description: ''
-        percent: 100
-      - name: API Testing
-        description: ''
-        percent: 70
-      - name: Salesforce Commerce Cloud
-        description: ''
-        percent: 80
-      - name: Test Case Creation
-        description: ''
-        percent: 90
-      - name: Bug Reporting and Specification
-        description: 'Reported 300+ bugs till now'
-        percent: 95
-    items: 
-      - name: Requirement Analysis
-        description: ''
-        percent: 80    
-      - name: Cross Browser Testing
-        description: ''
-        percent: 85
-      - name: Communication Skills
-        description: ''
-        percent: 90     
-      - name: Test Planning and Execution
-        description: ''
-        percent: 80
-      - name: JIRA & Confluence
-        description: ''
-        percent: 85
+      items:
+        - name: Manual Testing
+          description: ''
+          percent: 100
+        - name: API Testing
+          description: ''
+          percent: 70
+        - name: Salesforce Commerce Cloud
+          description: ''
+          percent: 80
+        - name: Test Case Creation
+          description: ''
+          percent: 90
+        - name: Bug Reporting and Specification
+          description: 'Reported 300+ bugs till now'
+          percent: 95
+      items: 
+        - name: Requirement Analysis
+          description: ''
+          percent: 80    
+        - name: Cross Browser Testing
+          description: ''
+          percent: 85
+        - name: Communication Skills
+          description: ''
+          percent: 90     
+        - name: Test Planning and Execution
+          description: ''
+          percent: 80
+        - name: JIRA & Confluence
+          description: ''
+          percent: 85
 hobbies: 
   # - name: Hobbies
     color: '#eeac02'
