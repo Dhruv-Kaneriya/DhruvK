@@ -73,7 +73,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  # - name: Technical Skills
     items:
       - name: Manual Testing
         description: ''
@@ -90,12 +90,10 @@ skills:
       - name: Bug Reporting and Specification
         description: 'Reported 300+ bugs till now'
         percent: 95
+    items: 
       - name: Requirement Analysis
         description: ''
         percent: 80    
-      - name: Testing Methodologies
-        description: ''
-        percent: 80  
       - name: Cross Browser Testing
         description: ''
         percent: 85
@@ -108,10 +106,10 @@ skills:
       - name: JIRA & Confluence
         description: ''
         percent: 85
-          
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
+hobbies: 
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
     items:
       - name: Chess
         description: ''
