@@ -75,18 +75,40 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+      - name: Manual Testing
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+      - name: API Testing
         description: ''
-        percent: 40
-        icon: circle-stack
+        percent: 70
+      - name: Salesforce Commerce Cloud
+        description: ''
+        percent: 80
+      - name: Test Case Creation
+        description: ''
+        percent: 90
+      - name: Bug Reporting and Specification
+        description: 'Reported 300+ bugs till now'
+        percent: 95
+      - name: Requirement Analysis
+        description: ''
+        percent: 80    
+      - name: Testing Methodologies
+        description: ''
+        percent: 80  
+      - name: Cross Browser Testing
+        description: ''
+        percent: 85
+      - name: Communication Skills
+        description: ''
+        percent: 90     
+      - name: Test Planning and Execution
+        description: ''
+        percent: 80
+      - name: JIRA & Confluence
+        description: ''
+        percent: 85
+          
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -95,14 +117,14 @@ skills:
         description: ''
         percent: 60
         icon: chess
-      - name: Cats
+      - name: 3x3 Rubiks Cube
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: cube
+      - name: Movies
         description: ''
         percent: 80
-        icon: camera
+        icon: movies
 
 languages:
   - name: English
