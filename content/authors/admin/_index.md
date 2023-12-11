@@ -34,8 +34,8 @@ profiles:
     url: https://github.com/Dhruv-Kaneriya
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/dhruv-kaneriya/
-  - icon: trailhead
-    url: https://www.salesforce.com/trailblazer/dhruv-kaneriya
+  # - icon: trailhead
+    # url: https://www.salesforce.com/trailblazer/dhruv-kaneriya
 
 education:
   - area: B.E. in Computer Engineering
