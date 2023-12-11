@@ -46,7 +46,7 @@ education:
       CGPA: 9.6 
   - area: High School
     institution: The Rajkumar College Rajkot
-    date_start: 2017-05-02
+    date_start: 2017-06-02
     date_end: 2019-05-02
     summary: |
       - Class XII: 82.8%
@@ -144,4 +144,4 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+ISTQB CTFL Certified QA Engineer with 2x Salesforce Certification, bringing expertise in creating and implementing effective test strategies for software development projects. Proven experience in writing meticulous test scripts, tracking defects, and proficient debugging.
