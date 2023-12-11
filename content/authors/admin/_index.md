@@ -105,22 +105,22 @@ skills:
       - name: JIRA & Confluence
         description: ''
         percent: 85 
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Chess
-        description: ''
-        percent: 60
-        icon: chess
-      - name: 3x3 Rubiks Cube
-        description: ''
-        percent: 100
-        icon: cube
-      - name: Movies
-        description: ''
-        percent: 80
-        icon: movies
+  # - name: Hobbies
+  #   color: '#eeac02'
+  #   color_border: '#f0bf23'
+  #   items:
+  #     - name: Chess
+  #       description: ''
+  #       percent: 60
+  #       icon: chess
+  #     - name: 3x3 Rubiks Cube
+  #       description: ''
+  #       percent: 100
+  #       icon: cube
+  #     - name: Movies
+  #       description: ''
+  #       percent: 80
+  #       icon: movies
 
 languages:
   - name: English
