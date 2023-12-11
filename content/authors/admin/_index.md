@@ -91,10 +91,10 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Chess
         description: ''
         percent: 60
-        icon: person-simple-walk
+        icon: chess
       - name: Cats
         description: ''
         percent: 100
@@ -107,10 +107,10 @@ skills:
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Hindi
+    percent: 100
+  - name: Gujarati
+    percent: 100
 
 # Awards.
 #   Add/remove as many awards below as you like.
