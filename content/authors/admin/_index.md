@@ -143,7 +143,7 @@ awards:
     awarder: Central Board of Secondary Education
     icon: cbse
     summary: |
-    - Highest Score in English-AISSCE
+      - Highest Score in English-AISSCE
   - title: 'NSO Gold Medalist'
     # url: https://api.badgr.io/public/assertions/r2TGiDHoTACIejMAOgNxsA?identity__email=dhruvkaneriya%40rocketmail.com
     date: '2018-12-26'
@@ -155,7 +155,7 @@ awards:
     awarder: Science Olympiad Foundation 
     icon: nco
     summary: |
-    - Reached 2nd Level with State Rank 31.
+      - Reached 2nd Level with State Rank 31.
 ---
 
 ISTQB CTFL Certified QA Engineer with 2x Salesforce Certification, bringing expertise in creating and implementing effective test strategies for software development projects. Proven experience in writing meticulous test scripts, tracking defects, and proficient debugging.
